@@ -1,5 +1,8 @@
 # .NET C# & Python [@raw_coding](https://www.youtube.com/raw_coding)
 
+- [Merch](https://shop.raw-coding.dev/)
+- [Courses](https://learning.raw-coding.dev/)
+
 <a href="https://www.youtube.com/raw_coding">
     <img src="https://aw-test-bucket.eu-central-1.linodeobjects.com/github_img/youtube-banner">
 </a>
