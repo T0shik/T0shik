@@ -8,6 +8,7 @@
 - 📈 [Advanced Programming Concepts in C#](https://www.youtube.com/playlist?list=PLOeFnOV9YBa43HKvIhBUMK6UhSjP2kizx)
 - 👮 [ASP.NET Core Authentication & Authorization](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi)
 - 📚 [ASP.NET Core Toolkit/Packages/Labraries Tutorials](https://www.youtube.com/playlist?list=PLOeFnOV9YBa6x8xcHqi80QvR5crFojLcF)
+- 👷‍♂️ [Design Patterns in C#](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
 
 ### Old but gold
 - [ASP.NET Core Authentication, Authorization, OAuth, OpenIdConnect, IdentityServer4](https://www.youtube.com/playlist?list=PLOeFnOV9YBa7dnrjpOG6lMpcyd7Wn7E8V)
